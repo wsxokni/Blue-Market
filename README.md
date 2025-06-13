@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Blue-Market
 EOP-Blue-Market's node_modules file was not uploaded due to some information.
 

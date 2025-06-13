@@ -1,0 +1,10 @@
+.logo_font {
+  font-family: "TTHakgyoansimMulgyeolB";
+  src: url("https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_2402_keris@1.0/TTHakgyoansimMulgyeolB.woff2")
+    format("woff2");
+  font-weight: 700;
+  font-style: normal;
+  font-size: 28px;
+  text-shadow: 0px 0px 2px rgba(128, 128, 128, 0.5);
+  color: #3f51b5;
+}

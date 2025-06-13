@@ -1,9 +1,7 @@
 <<<<<<< HEAD
 # Blue-Market
-EOP-Blue-Market
-=======
->> node_modules file was not uploaded due to some information.
-=======
+EOP-Blue-Market's node_modules file was not uploaded due to some information.
+
 # SookBlueMarket
 숙명인을 위한 안전하고 편리한 거래 플랫폼, 파란장터 
 
